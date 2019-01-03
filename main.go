@@ -29,7 +29,7 @@ func getLayoutStart(title string) string {
 
 				body.light {
 					background-color: #fdffff;
-					color: #183961;
+					color: #0f3763;
 				}
 
 				body.dark {
@@ -59,13 +59,13 @@ func getLayoutStart(title string) string {
 				body.light h1,
 				body.light h2,
 				body.light h3 {
-					color: #103c7d;
+					color: #003880;
 				}
 
 				body.dark h1,
 				body.dark h2,
 				body.dark h3 {
-					color: #cbdefd;
+					color: #c8ddff;
 				}
 
 				@media (max-width: 1023.98px) {
@@ -127,11 +127,11 @@ func getLayoutStart(title string) string {
 				}
 				
 				body.light .toggle-theme {
-					border-top: 1px solid #dbe0ec;
+					border-top: 1px solid #dbe0ed;
 				}
 
 				body.dark .toggle-theme {
-					border-top: 1px solid #2c3240;
+					border-top: 1px solid #2b3241;
 				}
 
 				pre {
@@ -145,7 +145,7 @@ func getLayoutStart(title string) string {
 				}
 
 				body.dark pre {
-					background-color: #1b2230;
+					background-color: #1a2231;
 				}
 
 				code {
@@ -172,11 +172,11 @@ func getLayoutStart(title string) string {
 				}
 
 				body.light tr {
-					border-bottom: 0.5px solid #dbe0ec;
+					border-bottom: 0.5px solid #dbe0ed;
 				}
 
 				body.dark tr {
-					border-bottom: 0.5px solid #2c3240;
+					border-bottom: 0.5px solid #2b3241;
 				}
 
 				th {
