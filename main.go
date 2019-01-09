@@ -42,18 +42,17 @@ func getLayoutStart(title string) string {
 				}
 
 				h1 {
-					font-size: 30px;
+					font-size: 26.79296875px;
 					margin-top: 24px;
 				}
 	
 				h2 {
-					font-size: 22px;
+					font-size: 22.5625px;
 					margin-top: 40px;
 				}
 	
 				h3 {
-					font-weight: 500;
-					font-size: 16px;
+					font-size: 19px;
 					margin-top: 40px;
 				}
 
@@ -101,7 +100,7 @@ func getLayoutStart(title string) string {
 				}
 
 				.all-posts {
-					font-size: 0.875rem;
+					font-size: 13.47368421052632px;
 					margin: 16px 0 32px 0;
 				}
 
