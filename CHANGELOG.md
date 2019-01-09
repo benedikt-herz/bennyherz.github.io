@@ -1,5 +1,15 @@
 # Changelog
 
+## 2019-01-09 – 1.5.3
+
+- Refine typography
+  - Use scale 1.1875 for headings
+  - Use font weight 400 for body text
+  - Use IBM Plex instead of Roboto
+- Use pixels instead of rems
+- Use exact Dainty colors
+- Use slightly darker shade for table row separator lines
+
 ## 2019-01-01 – 1.5.2
 
 - Add support for tables
