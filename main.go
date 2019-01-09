@@ -16,12 +16,12 @@ func getLayoutStart(title string) string {
 		<head>
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1">
-			<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500" rel="stylesheet">
-			<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,400i,500" rel="stylesheet">
+			<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400" rel="stylesheet">
 			<title>` + title + `</title>
 			<style>
 				body {
-					font-family: Roboto, sans-serif;
+					font-family: 'IBM Plex Sans', sans-serif;
 					line-height: 1.875;
 					font-weight: 400;
 					font-size: 16px;
@@ -150,7 +150,7 @@ func getLayoutStart(title string) string {
 
 				code {
 					font-size: 0.875em;
-					font-family: 'Roboto Mono', monospace;
+					font-family: 'IBM Plex Mono', monospace;
 				}
 
 				table {
