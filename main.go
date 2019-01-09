@@ -173,11 +173,11 @@ func getLayoutStart(title string) string {
 				}
 
 				body.light tr {
-					border-bottom: 0.5px solid #dbe0ed;
+					border-bottom: 0.5px solid #bdc5d8;
 				}
 
 				body.dark tr {
-					border-bottom: 0.5px solid #2b3241;
+					border-bottom: 0.5px solid #424957;
 				}
 
 				th {
